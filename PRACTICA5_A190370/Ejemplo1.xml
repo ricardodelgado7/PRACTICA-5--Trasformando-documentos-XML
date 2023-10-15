@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  type="text/xsl" href="C:\Users\crist\OneDrive\Escritorio\PRACTICA5_A190370/Ejemplo1.xsl"?>
+<celulares>
+  <celular>
+    <Marca>Xiaomi Redmi Note 11</Marca>
+    <Memoria>4GB RAM </Memoria>
+    <Almacenamiento>128GB ROM</Almacenamiento>
+  </celular>
+  <celular>
+    <Marca>Samsung Galaxy A52</Marca>
+    <Memoria>6GB RAM </Memoria>
+    <Almacenamiento>128GB ROM</Almacenamiento>
+  </celular>
+  <celular>
+    <Marca>OPPO A72</Marca>
+    <Memoria>4GB RAM </Memoria>
+    <Almacenamiento>64GB ROM</Almacenamiento>
+  </celular>
+</celulares>
