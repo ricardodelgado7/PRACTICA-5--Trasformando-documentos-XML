@@ -6,7 +6,7 @@
   <body>
     <h1>Celulares de Gama Alta</h1>
     <table>
-    <tr><th> CELULAR</th><th> memoria</th><th>almacenamiento</th></tr>
+    <tr><th> CELULAR</th><th>Memoria</th><th>Almacenamiento</th></tr>
     <xsl:for-each select="celulares/celular">
     <tr>
       <td><xsl:value-of select="Marca"/></td>
